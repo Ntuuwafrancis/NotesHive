@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes Hive</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here</string>
+</resources>
